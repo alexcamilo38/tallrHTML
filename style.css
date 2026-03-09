@@ -51,3 +51,8 @@ img{
 th{
     color: #2083b8;
 }
+caption{
+    color: red;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
