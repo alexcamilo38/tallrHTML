@@ -2,6 +2,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #fffcfc;
 }
+.cuerpoLogin{
+    background-image: url(/imagen/porada1.jpg);
+}
 
 header{
     background-color:#223E4D;
