@@ -9,7 +9,7 @@ body{
 header{
     background-color:#223E4D;
     color: white;
-    padding: 10px;   
+    padding: 10px;      
 }
 nav a{
     margin:10px;
@@ -126,4 +126,13 @@ tr:nth-child(even){
 tr:hover{
     background-color: navy;
     cursor: pointer;
+}
+a:link{
+    color: rgb(217, 0, 255);
+}
+a:hover{
+    color: rgb(0, 247, 255);
+}
+a:active{
+    color: rgb(32, 210, 8);
 }
